@@ -1,4 +1,4 @@
-## GitSint Pro V2 - Github Osint Tracker
+## GitSint - Github Osint Tracker
 
 Instrumen intelijen bersumber terbuka (*Open Source Intelligence*) berbasis CLI (*Command Line Interface*) yang dirancang khusus untuk melakukan pelacakan, profiling mendalam, serta investigasi forensik digital pada ekosistem platform manajemen kode (GitHub & GitLab). 
 
